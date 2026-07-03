@@ -1,0 +1,14 @@
+.breadcrumb-wrapper {
+  font-size: 14px;
+  padding: 10px 0;
+}
+
+.arrow{
+    font-size:12px;
+    color:gray;
+}
+
+.breadcrumb-wrapper a:hover {
+  color: #ff4141 !important;
+  transition: 0.3s;
+}
